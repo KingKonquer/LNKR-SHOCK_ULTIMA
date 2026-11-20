@@ -45,7 +45,7 @@ Inspired by the Nintendo Switch, Xbox Dashboard, and Steam Deck, **LNKR SHOCK UL
 - Large game collections
 - Retro and modern emulation
 - Living room & PC gaming setups
-- Handheld-style gaming experiences
+- Handheld-style gaming experiences compatible with design.
 - Controller-first navigation
 
 ---
