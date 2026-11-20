@@ -1,7 +1,7 @@
 ***EXAMPLES***
--
-*Config.txt file for PAP (Plug-&-Play) EmulatTech:*
--
+---
+## Config.txt file for PAP (Plug-&-Play) EmulatTech:
+
 ProfileName=RetroArch
 Platforms=[NES,Dreamcast]
 Cores=[fceumm_libretro.dll,flycast_libretro.dll]
