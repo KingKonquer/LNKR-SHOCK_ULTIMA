@@ -1,5 +1,3 @@
-***EXAMPLES***
----
 ## Config.txt file for PAP (Plug-&-Play) EmulatTech:
 
 ProfileName=RetroArch
