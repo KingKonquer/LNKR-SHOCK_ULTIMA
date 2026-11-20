@@ -1,4 +1,4 @@
-## Config.txt file for PAP (Plug-&-Play) EmulatTech:
+## Config.txt file for PAP (Plug-&-Play) EmulateTech:
 
 ProfileName=RetroArch
 Platforms=[NES,Dreamcast]
