@@ -24,7 +24,7 @@ Inspired by the Nintendo Switch, Xbox Dashboard, and Steam Deck, **LNKR SHOCK UL
   Launch directly into your games without distractions.
 
 - 🎨 **Custom Themes & Backgrounds**  
-  Personalize LNKR OS to match your style.
+  Personalize the OS to match your style.
 
 - 🚂 **Steam Compatibility Options**  
   Integrate and optimize your Steam gaming experience.
@@ -44,7 +44,7 @@ Inspired by the Nintendo Switch, Xbox Dashboard, and Steam Deck, **LNKR SHOCK UL
 
 - Large game collections
 - Retro and modern emulation
-- Living room gaming setups
+- Living room & PC gaming setups
 - Handheld-style gaming experiences
 - Controller-first navigation
 
