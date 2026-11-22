@@ -2,7 +2,7 @@
 
 A gaming-focused operating environment that brings your games, emulators, apps, and settings together in one place.
 
-Inspired by the Nintendo Switch, Xbox Dashboard, and Steam Deck, **LNKR SHOCK ULTIMA** is designed to be controller-friendly, fast, and effortless to use. Launch games, manage emulators, personalize your experience, and switch between running games without ever leaving the dashboard.
+Inspired by the Nintendo Switch, Xbox Dashboard, and Steam Deck, **LNKR SHOCK ULTIMA** is designed to be controller-friendly, fast, and effortless to use. Launch games, manage emulators, personalize your experience, and switch between games without ever leaving the dashboard.
 
 ---
 
